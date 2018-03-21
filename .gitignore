@@ -1,0 +1,12 @@
+*.log
+*.db
+nohup.out
+
+.idea
+
+.cache
+.pytest_cache
+*.pyc
+__pycache__
+
+Pipfile.lock
