@@ -10,3 +10,5 @@ nohup.out
 __pycache__
 
 Pipfile.lock
+
+.ipynb_checkpoints
